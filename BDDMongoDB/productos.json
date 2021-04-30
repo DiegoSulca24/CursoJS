@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6085a12da6882f424c26b242"
+  },
+  "estado": true,
+  "precio": 5,
+  "disponible": true,
+  "nombre": "Leche",
+  "usuario": {
+    "$oid": "60843df3365a9b36a88f387e"
+  },
+  "categoria": {
+    "$oid": "608590588c374c0a74682b4e"
+  },
+  "descripcion": "Producto Lacteo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085a15fa6882f424c26b243"
+  },
+  "estado": true,
+  "precio": 5,
+  "disponible": true,
+  "nombre": "Ron",
+  "usuario": {
+    "$oid": "60843df3365a9b36a88f387e"
+  },
+  "categoria": {
+    "$oid": "608593836ff3672330cc0cc8"
+  },
+  "descripcion": "Producto Alcoholico",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085a16aa6882f424c26b244"
+  },
+  "estado": true,
+  "precio": 5,
+  "disponible": true,
+  "nombre": "Cerveza",
+  "usuario": {
+    "$oid": "60843df3365a9b36a88f387e"
+  },
+  "categoria": {
+    "$oid": "608593836ff3672330cc0cc8"
+  },
+  "descripcion": "Producto Alcoholico",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085a190a6882f424c26b246"
+  },
+  "estado": true,
+  "precio": 5,
+  "disponible": true,
+  "nombre": "Atun",
+  "usuario": {
+    "$oid": "6084653ab766e247147d5eeb"
+  },
+  "categoria": {
+    "$oid": "608590718c374c0a74682b50"
+  },
+  "descripcion": "Producto en lata",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085a1a6a6882f424c26b247"
+  },
+  "estado": true,
+  "precio": 5,
+  "disponible": true,
+  "nombre": "Pollo",
+  "usuario": {
+    "$oid": "6084653ab766e247147d5eeb"
+  },
+  "categoria": {
+    "$oid": "6085905e8c374c0a74682b4f"
+  },
+  "descripcion": "Producto Carnico",
+  "__v": 0
+}]

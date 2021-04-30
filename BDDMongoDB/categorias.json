@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "608590588c374c0a74682b4e"
+  },
+  "estado": true,
+  "nombre": "Lacteos",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085905e8c374c0a74682b4f"
+  },
+  "estado": true,
+  "nombre": "Carnes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608590718c374c0a74682b50"
+  },
+  "estado": true,
+  "nombre": "Enlatados",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608593836ff3672330cc0cc8"
+  },
+  "estado": true,
+  "nombre": "Bebidas",
+  "__v": 0
+}]

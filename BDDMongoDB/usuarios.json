@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "60843df3365a9b36a88f387e"
+  },
+  "rol": "Cliente_rol",
+  "estado": true,
+  "nombre": "Fernando",
+  "correo": "fer@mail.com",
+  "password": "$2a$10$6Ni5mvbz4LB/p9TdjDoNcezigt.RsiVTflHf7VwbEX0U3k4cY9nMm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60843fcb97cbf025f44469c4"
+  },
+  "rol": "Admin_rol",
+  "estado": true,
+  "nombre": "Diego",
+  "correo": "diego@mail.com",
+  "password": "$2a$10$GehAKRGtrqu3mYb35s1c3uv1T//3x6FvJDibtykKzgC9.komRqI5q",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6084653ab766e247147d5eeb"
+  },
+  "rol": "Cliente_rol",
+  "estado": true,
+  "nombre": "Andrez",
+  "correo": "andrez@mail.com",
+  "password": "$2a$10$nPZJi5hisWgoYmhWSkGlc.KvDZ7TmXBKT6a1kPLaBo0hO58yIAWBq",
+  "__v": 0
+}]
